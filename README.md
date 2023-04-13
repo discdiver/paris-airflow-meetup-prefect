@@ -16,7 +16,7 @@ The [Airflow demos folder](./airflow-demo/) contains some small pipelines in Air
 
 There are also examples showing how to make an Airflow DAG into an observable event.
 1. [basic_dag.py](./airflow-demos/dags/basic_dag.py)
-2. [basic_dag_with_prefect_event.py]((./airflow-demos/dags/basic_dag_with_prefect_event.py)
+2. [basic_dag_with_prefect_event.py](./airflow-demos/dags/basic_dag_with_prefect_event.py)
 
 ## Getting Started for Prefect
 
